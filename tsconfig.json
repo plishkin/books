@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "target": "es2020",
+        "module": "es2020",
+        "moduleResolution": "node",
+        "jsx": "react",
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "types": [
+            "node",
+            "jest",
+            "@types/jest",
+            "@testing-library/react",
+            "@testing-library/jest-dom"
+        ]
+    }
+}
