@@ -2,6 +2,7 @@ FROM php:8.1-fpm
 
 RUN apt-get update
 RUN apt-get install curl -y
+RUN apt-get install git -y
 RUN apt-get install iputils-ping -y
 RUN docker-php-ext-install pdo pdo_mysql
 
