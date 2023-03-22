@@ -1,6 +1,6 @@
 ## Simple sample application that allows to manage books data using Restful API
 
-![scrrenshot](https://raw.githubusercontent.com/plishkin/currency/main/screen.png)
+![scrrenshot](https://raw.githubusercontent.com/plishkin/books/master/screen.png)
 
 ### Uses
 
